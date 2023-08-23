@@ -18,9 +18,11 @@ const AboutComponent = () => {
       className="grid grid-cols-1 lg:grid-cols-2 py-12 px-5 bg-gray-900 text-white mt-32 justify-center items-center"
     >
       <div className="flex flex-col w-full items-center justify-center pl-5">
-        <h3 className=" font-serif font-extrabold underline">My Journey</h3>
+        <h3 className=" mb-4 text-4xl tracking-tight font-extrabold text-center text-gray-900 dark:text-white underline">
+          My Journey
+        </h3>
         <br />
-        <p className=" font-serif text-center m-4">
+        <p className=" text-center m-4">
           I started my coding journey as of December 2022, and in that time I
           have done a lot of self learning and attended a software engineering
           bootcamp. The result of my studies has made me proficient in
