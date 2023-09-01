@@ -38,13 +38,13 @@ const AboutComponent = () => {
           software development through members of my community and started to
           take a big interest in Software & Web Development.
           <br /> <br />I am extremely motivated, and willing to do whatever it
-          takes to make myself a better developer. I understand that I got holes
-          in my knowledge due to my lack of time and experience, but I am not
-          afraid to admit those holes and I do the very best I can to make sure
-          they are filled as soon as possible. After completing the bootcamp, I
-          realized that learning a CSS framework would serve me well to improve
-          the aesthetic's of any future applications I make, so I chose to learn
-          TailwindCSS. This is my first website built using it!
+          takes to make myself a better developer. I understand that I've got
+          holes in my knowledge due to my lack of time and experience, but I am
+          not afraid to admit those holes and I do the very best I can to make
+          sure they are filled as soon as possible. After completing the
+          bootcamp, I realized that learning a CSS framework would serve me well
+          to improve the aesthetics of any future applications I make, so I
+          chose to learn TailwindCSS. This is my first website built using it!
         </p>
       </div>
       <div className=" flex flex-row w-full items-center justify-center">
