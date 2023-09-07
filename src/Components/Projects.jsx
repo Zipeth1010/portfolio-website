@@ -93,20 +93,6 @@ const ProjectsComponent = () => {
             </button>
           </div>
         </div>
-        <div className=" relative">
-          <img
-            src="https://img.freepik.com/free-vector/abstract-coming-soon-halftone-style-background-design_1017-27282.jpg"
-            className=" opacity-25 w-[700px] h-[395px] p-3"
-          />
-          <div className="absolute bottom-0 left-0 right-0 px-4 py-2 bg-gray-900 opacity-70">
-            <h3 className=" text-xl pl-2">Next Project</h3>
-            <br />
-            <p className="p-2">
-              The next project will be a full online shopping platform for mens
-              Jewellery.
-            </p>
-          </div>
-        </div>
       </div>
     </div>
   );
