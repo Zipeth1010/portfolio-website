@@ -17,8 +17,7 @@ const ProjectsComponent = () => {
             <p className="p-2">
               A board game review website to handle different users, who can log
               in via their own usernames. They can write reviews, vote on other
-              reviews and comment their opinions on a review (Note, CSS needs
-              rework)!
+              reviews and comment their opinions on a review!
             </p>
             <button className=" border-solid bg-gray-900">
               <a
