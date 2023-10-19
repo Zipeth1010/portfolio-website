@@ -6,7 +6,7 @@ const ContactComponent = () => {
   });
   if (state.submitted) {
     return (
-      <div className=" bg-gray-900 text-white text-4xl text-center pb-[50px]">
+      <div className=" bg-gray-900 text-white text-4xl text-center py-[50px]">
         Thank you! We received your submission!
       </div>
     );

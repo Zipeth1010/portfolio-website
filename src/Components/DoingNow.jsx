@@ -1,22 +1,6 @@
 const DoingNow = () => {
   return (
     <div className="grid grid-cols-1 lg:grid-cols-2 py-12 px-5 bg-gray-900 text-white justify-center items-center">
-      <div>
-        <h2 class="mb-4 pt-4 text-4xl tracking-tight font-extrabold text-center text-gray-900 dark:text-white">
-          What I am Doing now
-        </h2>
-        <p className=" text-center">
-          At the minute I am currently enrolled in the IBM Full-Stack Software
-          Developer Professional Certificate course to add more languages to my
-          skill-set, and consolidate what I have already learnt so far, both
-          from bootcamp & self learning. I plan to integrate what I didn't learn
-          from the bootcamp into my projects as there are definitely some areas
-          which were missed, user authentication using JSON webtokens for
-          example. You can find the course and what is studied by clicking the
-          IBM image! I am currently half-way through, with an average grade of
-          84%.
-        </p>
-      </div>
       <div className=" flex items-center justify-center pt-16">
         <a
           target="_blank"
@@ -27,6 +11,26 @@ const DoingNow = () => {
             className=" w-[400px]"
           ></img>
         </a>
+      </div>
+      <div className=" order-first lg:order-last">
+        <h2 class="mb-4 pt-4 text-4xl tracking-tight font-extrabold text-center text-gray-900 dark:text-white">
+          What I am Doing now
+        </h2>
+        <p className=" text-center">
+          At the minute I am currently enrolled in the IBM Full-Stack Software
+          Developer Professional Certificate course to add more languages to my
+          skill-set, and consolidate what I have already learnt so far, both
+          from bootcamp & self learning. I plan to integrate what I didn't learn
+          from the bootcamp into my projects as there are definitely some areas
+          which were missed, user authentication using JSON webtokens, or a CSS
+          framework for example. You can find the course and what is studied by
+          clicking the IBM image! I am currently 3/4 through, with an average
+          grade of 84%.
+          <br />
+          <br />
+          In addition, I have completed courses in TypeScript & Python from
+          Codecademy & Freecodecamp to further my learning.
+        </p>
       </div>
     </div>
   );
