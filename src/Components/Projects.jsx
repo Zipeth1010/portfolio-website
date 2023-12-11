@@ -51,6 +51,30 @@ const ProjectsComponent = () => {
         <div className=" relative">
           <img
             className=" opacity-25 w-[700px] h-[395px] p-3"
+            src={require("../Assets/dealerships.png")}
+          />
+          <div className=" absolute bottom-0 left-0 right-0 px-4 py-2 bg-gray-900 opacity-70">
+            <h3 className=" text-xl pl-2">Best Cars</h3>
+            <br />
+            <p>
+              A fictional car dealership website where dealerships are listed,
+              users can register, login and leave reviews on the experiences
+              they had! Made using Python & Django to serve HTML templates!
+            </p>
+            <br />
+            <button className=" pb-2">
+              <a
+                href="https://github.com/Zipeth1010/capstone-project"
+                target="_blank"
+              >
+                Click here for repository
+              </a>
+            </button>
+          </div>
+        </div>
+        <div className=" relative">
+          <img
+            className=" opacity-25 w-[700px] h-[395px] p-3"
             src={require("../Assets/getQuacked.png")}
           />
           <div className="absolute bottom-0 left-0 right-0 px-4 py-2 bg-gray-900 opacity-70">

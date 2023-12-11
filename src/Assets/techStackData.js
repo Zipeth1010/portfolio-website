@@ -16,6 +16,10 @@ export const techStack = [
     img: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png",
   },
   {
+    tech: "Python 3",
+    img: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png",
+  },
+  {
     tech: "HTML",
     img: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png",
   },
@@ -42,5 +46,9 @@ export const techStack = [
   {
     tech: "Firebase",
     img: "https://www.gameartguppy.com/wp-content/uploads/2019/04/mascot_firebase-logo.png",
+  },
+  {
+    tech: "Django",
+    img: "https://www.opengis.ch/wp-content/uploads/2020/04/django-python-logo.png",
   },
 ];

@@ -1,7 +1,7 @@
 export const data = [
   {
     id: 1,
-    img: "https://scontent-lhr6-1.xx.fbcdn.net/v/t1.6435-9/48415699_10155724600551927_2387102974410227712_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=cdbe9c&_nc_ohc=7KqoLH-_-e4AX-Ok5uy&_nc_ht=scontent-lhr6-1.xx&oh=00_AfCImo8R6TLrVsf54RFWAbTfC9E_WC0CAQtx0N3DOW-pRA&oe=6543EF76",
+    img: "https://static-cdn.jtvnw.net/jtv_user_pictures/48825760-a545-4825-8ba3-63fb271ebd5b-profile_image-300x300.png",
   },
   {
     id: 2,
