@@ -24,8 +24,8 @@ const DoingNow = () => {
           from the bootcamp into my projects as there are definitely some areas
           which were missed, user authentication using JSON webtokens, or a CSS
           framework for example. You can find the course and what is studied by
-          clicking the IBM image! I am currently 3/4 through, with an average
-          grade of 84%.
+          clicking the IBM image! As of the 9th of December 2023, I have just
+          finished the course with an average grade of 86%!
           <br />
           <br />
           In addition, I have completed courses in TypeScript & Python from
