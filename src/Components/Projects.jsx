@@ -8,6 +8,27 @@ const ProjectsComponent = () => {
       <div className="grid w-[736px]:grid-cols-1 md:grid-cols-2 lg:grid-cols-3 py-12 px-5 bg-gray-900 text-white">
         <div className=" relative">
           <img
+            src={require("../Assets/Traced.png")}
+            className=" opacity-25 w-[700px] h-[395px] p-3"
+          />
+          <div className=" absolute bottom-0 left-0 right-0 px-4 py-2 bg-gray-900 opacity-70">
+            <h3 className=" text-xl pl-2">Traced</h3>
+            <br />
+            <p className=" p-2">
+              Contracted to work on different aspects of Traced's website as a
+              freelance junior web developer for 2 months.
+            </p>
+            <a
+              href="https://traced.app"
+              target="_blank"
+              className=" text-red-500"
+            >
+              Click here for Website!
+            </a>
+          </div>
+        </div>
+        <div className=" relative">
+          <img
             className=" opacity-25 w-[700px] h-[395px] p-3"
             src={require("../Assets/BoardGameReviews.png")}
           />
@@ -23,11 +44,12 @@ const ProjectsComponent = () => {
               <a
                 href="https://mark-board-games-reviews.netlify.app/"
                 target="_blank"
+                className=" text-red-500"
               >
                 Click here for Website!
               </a>
             </button>{" "}
-            <br /> <br />
+            <br />
             <button>
               <a
                 href="https://github.com/Zipeth1010/mark-nc-games"
@@ -36,7 +58,6 @@ const ProjectsComponent = () => {
                 Click here for Front-End repository!
               </a>
             </button>
-            <br />
             <br />
             <button className="pb-2">
               <a
@@ -62,14 +83,22 @@ const ProjectsComponent = () => {
               they had! Made using Python & Django to serve HTML templates!
             </p>
             <br />
-            <button className=" pb-2">
-              <a
-                href="https://github.com/Zipeth1010/capstone-project"
-                target="_blank"
-              >
-                Click here for repository
-              </a>
-            </button>
+            <a
+              href="https://capstone-project-u1dq.onrender.com/djangoapp/"
+              target="_blank"
+              className=" text-red-500"
+            >
+              Click here for Website!
+            </a>
+
+            <br />
+            <a
+              href="https://github.com/Zipeth1010/capstone-project"
+              target="_blank"
+              className=" pb-2"
+            >
+              Click here for repository
+            </a>
           </div>
         </div>
         <div className=" relative">
@@ -85,6 +114,7 @@ const ProjectsComponent = () => {
               hunters by shooting them with her eggs instead! Rounds get harder
               as the game progresses, so good luck getting that highscore!
             </p>
+            <br />
             <button className=" pb-2">
               <a
                 href="https://github.com/nc-debug-thugs/get-quacked"
@@ -106,6 +136,7 @@ const ProjectsComponent = () => {
             <p className="p-2">
               An IOS compatible dictionary app made with React Native.{" "}
             </p>
+            <br />
             <button className=" pb-2">
               <a
                 href="https://github.com/Zipeth1010/dictionary-app"

@@ -13,14 +13,18 @@ export const data = [
   },
   {
     id: 4,
-    img: "https://pbs.twimg.com/media/FMnpVPeXoAAuCN_?format=jpg&name=large",
+    img: require("./me1.JPG"),
   },
   {
     id: 5,
-    img: "https://pbs.twimg.com/media/EiDbd83WkAAH3uF?format=jpg&name=large",
+    img: require("./me3.JPG"),
   },
   {
     id: 6,
-    img: "https://pbs.twimg.com/media/FlAU6b3agAEk1sc?format=jpg&name=large",
+    img: require("./me2.jpg"),
+  },
+  {
+    id: 7,
+    img: require("./me4.jpg"),
   },
 ];

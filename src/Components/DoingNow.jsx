@@ -17,19 +17,18 @@ const DoingNow = () => {
           What I am Doing now
         </h2>
         <p className=" text-center">
-          At the minute I am currently enrolled in the IBM Full-Stack Software
-          Developer Professional Certificate course to add more languages to my
-          skill-set, and consolidate what I have already learnt so far, both
-          from bootcamp & self learning. I plan to integrate what I didn't learn
-          from the bootcamp into my projects as there are definitely some areas
-          which were missed, user authentication using JSON webtokens, or a CSS
-          framework for example. You can find the course and what is studied by
-          clicking the IBM image! As of the 9th of December 2023, I have just
-          finished the course with an average grade of 86%!
+          After finishing my professional certificate in Software Development
+          offered by IBM (click on the IBM logo to view the course), I landed
+          some contract work with 'Traced Mobile Threat Defence' as a junior web
+          developer, and am looking for my first full time job as a full stack
+          software/web developer as of this moment. I am keeping up my practice
+          with coding by completing different coding exercises on websites like
+          hackerrank and leetcode to help with any opportunity that comes my
+          way.
           <br />
           <br />
-          In addition, I have completed courses in TypeScript & Python from
-          Codecademy & Freecodecamp to further my learning.
+          In addition, I have completed additional courses from Codecademy and
+          Freecodecamp to further my learning.
         </p>
       </div>
     </div>

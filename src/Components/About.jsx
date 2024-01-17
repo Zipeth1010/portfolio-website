@@ -34,17 +34,16 @@ const AboutComponent = () => {
           prize money in tournaments. At my peak, I was ranked the number 1
           player worldwide for approximately 5 months concurrently, out of over
           100 million total unique players, and garnered over 80000 followers on
-          'Twitch' as a result. It was during this time that I discovered
+          'Twitch' as a result. I have since retired from the esport, and
+          haven't played a game since. It was during this time that I discovered
           software development through members of my community and started to
           take a big interest in Software & Web Development.
           <br /> <br />I am extremely motivated, and willing to do whatever it
-          takes to make myself a better developer. I understand that I've got
-          holes in my knowledge due to my lack of time and experience, but I am
-          not afraid to admit those holes and I do the very best I can to make
-          sure they are filled as soon as possible. After completing the
-          bootcamp, I realized that learning a CSS framework would serve me well
-          to improve the aesthetics of any future applications I make, so I
-          chose to learn TailwindCSS. This is my first website built using it!
+          takes to make myself a better developer. After completing the
+          bootcamp, I completed another Full-Stack software engineering
+          professional certificate offered by 'IBM' and also managed to land
+          some junior web developer contract work to gain some experience in the
+          field.
         </p>
       </div>
       <div className=" flex flex-row w-full items-center justify-center">
@@ -56,7 +55,7 @@ const AboutComponent = () => {
           {data.map((item) => {
             return (
               <img
-                className=" w-[300px] inline-block p-2 cursor-pointer hover:scale-125 ease-in-out duration-300"
+                className=" w-auto h-auto max-h-[450px] inline-block p-2 cursor-pointer hover:scale-125 ease-in-out duration-300 py-16"
                 src={item.img}
                 alt="/"
               />
