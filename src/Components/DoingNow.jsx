@@ -21,10 +21,17 @@ const DoingNow = () => {
           offered by IBM (click on the IBM logo to view the course), I landed
           some contract work with 'Traced Mobile Threat Defence' as a junior web
           developer, and am looking for my first full time job as a full stack
-          software/web developer. The contract has since ended, and I am keeping
-          up my practice with coding by completing different coding exercises on
-          websites like hackerrank and leetcode to help with any opportunity
-          that comes my way.
+          software/web developer.
+          <br />
+          <br />
+          The work I did there entailed leading the redesign of user onboarding
+          using JavaScript, HTML and CSS. The redesign had to be mobile
+          optimised with platform-intelligent functionality to improve
+          onboarding time. To ensure it was all done on time I was in constant
+          talk with the client to ensure it was all on the right track. The
+          contract has since ended, and I am keeping up my practice with coding
+          by completing different coding exercises on websites like hackerrank
+          and leetcode to help with any opportunity that comes my way.
           <br />
           <br />
           In addition, I have completed additional courses from Codecademy and
