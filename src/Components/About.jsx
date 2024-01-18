@@ -23,27 +23,31 @@ const AboutComponent = () => {
         </h2>
         <br />
         <p className=" text-center m-4">
-          I started my coding journey as of December 2022, and in that time I
-          have done a lot of self learning and attended a software engineering
-          bootcamp. The result of my studies has made me proficient in
-          JavaScript on both the Front-End and Back-End, with more to come.
+          I started my coding journey back in December 2022. In that time, I
+          completed a software engineering bootcamp course from Nortcode and
+          have diligently been self learning and becoming more proficient in
+          JavaScript in both the Front end and Back end.
           <br />
           <br />
-          Before coding, I was a professional gamer for around 3 and a half
-          years, playing Apex Legends at international levels competing for
-          prize money in tournaments. At my peak, I was ranked the number 1
-          player worldwide for approximately 5 months concurrently, out of over
-          100 million total unique players, and garnered over 80000 followers on
-          'Twitch' as a result. I have since retired from the esport, and
-          haven't played a game since. It was during this time that I discovered
-          software development through members of my community and started to
-          take a big interest in Software & Web Development.
-          <br /> <br />I am extremely motivated, and willing to do whatever it
-          takes to make myself a better developer. After completing the
-          bootcamp, I completed another Full-Stack software engineering
-          professional certificate offered by 'IBM' and also managed to land
-          some junior web developer contract work to gain some experience in the
-          field.
+          Before coding, an opportunity arose after Uni that led me to become a
+          professional gamer for 31/2 years during the Covid. I was playing Apex
+          Legends at International levels competing for prize money in
+          tournaments. At my peak, I was ranked no 1 player worldwide for
+          approximately 5 months concurrently out of 100 million total unique
+          players and gained over 80,000 on Twitch as a result. I landed a job
+          with LVL in Berlin for a year and this is where I got introduced to
+          coding through my colleagues at work. I became fascinated by their
+          world and wanted to get immersed immediately. I retired from the world
+          of esports and decided to learn as much as I could about coding.
+          <br /> <br />I am extremely motivated and willing to do whatever it
+          takes to make myself a better developer. After finishing my first
+          bootcamp, I then completed another Full-Stack software engineering
+          professional certificate offered by 'IBM' . I secured a contract work
+          with 'Traced Ltd' as a temporary web developer. I am now looking for
+          my first full time job as a full stack software/web developer. I am
+          keeping up my skills by completing different coding exercises on
+          websites like Hackerrenk and Leetcode to help with any opportunities
+          that come my way.
         </p>
       </div>
       <div className=" flex flex-row w-full items-center justify-center">
