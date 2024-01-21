@@ -32,11 +32,11 @@ const AboutComponent = () => {
           Before coding, an opportunity arose after Uni that led me to become a
           professional gamer for three and a half years during the covid
           pandemic. I was playing Apex Legends at International levels competing
-          for prize money in tournaments. At my peak, I was ranked no 1 player
-          worldwide for approximately 5 months concurrently out of 100 million
-          total unique players and gained over 80,000 on Twitch as a result. I
-          landed a job with LVL in Berlin for a year and this is where I got
-          introduced to coding through my colleagues at work. I became
+          for prize money in tournaments. At my peak, I was ranked the no 1
+          player worldwide for approximately 5 months concurrently, out of 100
+          million total unique players and gained over 80,000 on Twitch as a
+          result. I landed a job with LVL in Berlin for a year and this is where
+          I got introduced to coding through my colleagues at work. I became
           fascinated by their world and wanted to get immersed immediately. I
           retired from the world of esports and decided to learn as much as I
           could about coding.
