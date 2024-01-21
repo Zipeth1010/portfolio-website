@@ -30,24 +30,23 @@ const AboutComponent = () => {
           <br />
           <br />
           Before coding, an opportunity arose after Uni that led me to become a
-          professional gamer for 31/2 years during the Covid. I was playing Apex
-          Legends at International levels competing for prize money in
-          tournaments. At my peak, I was ranked no 1 player worldwide for
-          approximately 5 months concurrently out of 100 million total unique
-          players and gained over 80,000 on Twitch as a result. I landed a job
-          with LVL in Berlin for a year and this is where I got introduced to
-          coding through my colleagues at work. I became fascinated by their
-          world and wanted to get immersed immediately. I retired from the world
-          of esports and decided to learn as much as I could about coding.
+          professional gamer for three and a half years during the covid
+          pandemic. I was playing Apex Legends at International levels competing
+          for prize money in tournaments. At my peak, I was ranked no 1 player
+          worldwide for approximately 5 months concurrently out of 100 million
+          total unique players and gained over 80,000 on Twitch as a result. I
+          landed a job with LVL in Berlin for a year and this is where I got
+          introduced to coding through my colleagues at work. I became
+          fascinated by their world and wanted to get immersed immediately. I
+          retired from the world of esports and decided to learn as much as I
+          could about coding.
           <br /> <br />I am extremely motivated and willing to do whatever it
           takes to make myself a better developer. After finishing my first
           bootcamp, I then completed another Full-Stack software engineering
-          professional certificate offered by 'IBM' . I secured a contract work
-          with 'Traced Ltd' as a temporary web developer. I am now looking for
-          my first full time job as a full stack software/web developer. I am
-          keeping up my skills by completing different coding exercises on
-          websites like Hackerrenk and Leetcode to help with any opportunities
-          that come my way.
+          professional certificate offered by 'IBM'. I secured a contract work
+          with 'Traced Ltd' as a contract Front-End developer, and I am now
+          looking for my first full time job as a Front-End software/web
+          developer.
         </p>
       </div>
       <div className=" flex flex-row w-full items-center justify-center">
